@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vishalgalande07@gmail.com**
 
-- 📄 Know about my experiences [2+ Years of experience in JavaScript, HTML/CSS](2+ Years of experience in JavaScript, HTML/CSS)
+- 📄 Know about my experiences [2+ Years of experience in JavaScript, HTML/CSS]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and C**
 
-- 📫 How to reach me **vishalgalande07@gmail.com**
+- 📫 Reach me at **vishalgalande07@gmail.com**
 
 - 📄 Know about my experiences [2+ Years of experience in JavaScript, HTML/CSS]
 

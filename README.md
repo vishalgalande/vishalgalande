@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">1st year CSE student</h3>
 
-- 🌱 I’m currently learning **Python, C, and Java **
+- 🌱 I’m currently learning **Python, C, and Java**
 
 - 📫 Reach me at **vishalgalande07@gmail.com**
 

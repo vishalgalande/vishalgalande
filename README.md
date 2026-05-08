@@ -9,8 +9,8 @@
   3+ Years of experience in **JavaScript, HTML/CSS**
   1 Year experience in **Python and C**
 
-  Building *proximity.strawhats.co.in*
-- Know more about my Team at **strawhats.co.in**
+- Building <a href="https://proximity.strawhats.co.in/" target="blank"> **proximity.strawhats.co.in** </a>
+- Know more about my Team at <a href="https://strawhats.co.in/" target="blank"> **strawhats.co.in** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

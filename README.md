@@ -6,7 +6,11 @@
 - 📫 Reach me at **vishalgalande07@gmail.com**
 
 - 📄 Know about my experiences 
---3+ Years of experience in JavaScript, HTML/CSS
+  3+ Years of experience in **JavaScript, HTML/CSS**
+  1 Year experience in **Python and C**
+
+  Building *proximity.strawhats.co.in*
+- Know more about my Team at **strawhats.co.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

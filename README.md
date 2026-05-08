@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">1st year CSE student</h3>
 
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning **Python, C, and Java **
 
 - 📫 Reach me at **vishalgalande07@gmail.com**
 
-- 📄 Know about my experiences [2+ Years of experience in JavaScript, HTML/CSS]
+- 📄 Know about my experiences 
+--3+ Years of experience in JavaScript, HTML/CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

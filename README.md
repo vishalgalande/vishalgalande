@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, C, and Java**
 
-- 📫 Reach me at **vishalgalande07@gmail.com**
+- 📫 Reach me at **vishal.galande@strawhats.co.in**
 
 - 📄 Know about my experiences 
   3+ Years of experience in **JavaScript, HTML/CSS**
